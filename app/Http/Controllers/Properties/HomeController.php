@@ -12,7 +12,7 @@ class HomeController extends Controller
    }
 
    public function ishu(){
-      echo "hjjkk";
+      echo "hjjkk ";
    }
 
 }
